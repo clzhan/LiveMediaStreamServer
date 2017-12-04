@@ -1,0 +1,2 @@
+# SRLiveOndemandMediaStreamServer
+基于go构建的直播点播服务
